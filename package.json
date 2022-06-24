@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/vrishank-gupta.lwc-l4sqpeqh-fork-l4sqt010",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve datnT3GtoBHlR6UPHnSF --open"
+  }
+}
